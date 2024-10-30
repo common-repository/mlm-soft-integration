@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MLM Soft Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-28 10:52+0000\n"
+"PO-Revision-Date: 2022-09-29 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0.1\n"
+"X-Domain: mlmsoft"
+
+msgid "Account ID not found"
+msgstr "ID Аккаунта не найден"
+
+msgid "Account ID not found in the coupon (old version)"
+msgstr "ID аккаунта не найден в купоне (старая версия)"
+
+msgid "Amount must be less than {{maxAmount}}"
+msgstr "Сумма должна быть меньше {{maxAmount}}"
+
+msgid "Cancel payment. Coupon {{couponCode}}"
+msgstr "Отмена покупки. Купон {{couponCode}}"
+
+msgid ""
+"Cannot find any sponsor with this sponsor referral code in the database."
+msgstr ""
+"В базе данных не удалось найти ни одного спонсора с таким реферальным кодом."
+
+msgid "Cannot return a used coupon"
+msgstr "Нельзя вернуть использованный купон"
+
+msgid "Coupon cannot be returned (Old version)"
+msgstr "Купон не может быть возвращен (Старая версия)"
+
+msgid "Coupon is not connected to the e-wallet"
+msgstr "Купон не присоединен к электронному кошельку"
+
+msgid "Coupon not found"
+msgstr "Купон не найден"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description of payment method"
+msgstr "Описание метода оплаты"
+
+msgid "Document {{documentId}} not processed"
+msgstr "Документ {{documentId}} не обработан"
+
+msgid "EWallet info"
+msgstr "Электронный кошелек"
+
+msgid "Handler not found"
+msgstr "Обработчик не найден"
+
+msgid "https://mlm-soft.com"
+msgstr "https://mlm-soft.com"
+
+msgid "Internal error. Can not create user"
+msgstr "Внутренняя ошибка. Невозможно создать пользователя"
+
+msgid "Invite code"
+msgstr "Реферальный код"
+
+msgid "Logout"
+msgstr "Выход"
+
+msgid "Method not exists"
+msgstr "Метод не существует"
+
+msgid "MLM Soft E-Wallet"
+msgstr "MLM Soft E-Wallet"
+
+msgid "MLM Soft Integration"
+msgstr "Интеграция MLM Soft"
+
+msgid "MLM Soft Ltd."
+msgstr "MLM Soft Ltd."
+
+msgid "Name of payment method"
+msgstr "Название платежного метода"
+
+msgid "Online office"
+msgstr "Онлайн офис"
+
+msgid "Opportunity presented by: {{fullName}}"
+msgstr "Возможность представлена: {{fullName}}"
+
+msgid "Pay from e-wallet - {{couponCode}}"
+msgstr "Оплата с электронного кошелька - {{couponCode}}"
+
+msgid "Pay with bonuses. Coupon {{couponCode}}"
+msgstr "Оплата бонусами. Купон {{couponCode}}"
+
+msgid "Payment from an e-wallet"
+msgstr "Оплата с бонусного счета"
+
+msgid "Payment from MLM Soft e-wallet balance"
+msgstr "Оплата с баланса электронного кошелька MLM Soft"
+
+msgid "Payment from {{couponCode}} created successfully"
+msgstr "Оплата с помощью {{couponCode}} создана успешно"
+
+msgid "Payment with bonuses from an e-wallet"
+msgstr "Оплата бонусами с электронного кошелька"
+
+msgid "Pos order created. Document id: {{documentId}}"
+msgstr "Заказ в POS создан успешно. ID документа: {{documentId}}"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Request validation error (digest)"
+msgstr "Ошибка валидации запроса (подпись)"
+
+msgid "Request validation error (internal digest)"
+msgstr "Ошибка валидации запроса (Внутренняя подпись)"
+
+msgid "Request validation error (required fields)"
+msgstr "Ошибка валидации запроса (обязательные поля)"
+
+msgid "Request validation error (time)"
+msgstr "Ошибка валидации запроса (время)"
+
+msgid "response body is not defined"
+msgstr "Тело ответа не определено"
+
+msgid "Response is empty"
+msgstr "Пустой ответ"
+
+msgid "Response not recognized: {{response}}"
+msgstr "Ответ не распознан: {{response}}"
+
+msgid "Session not found"
+msgstr "Сессия не найдена"
+
+msgid "Sign In"
+msgstr "Логин"
+
+msgid "Sponsor ID"
+msgstr "ID Спонсора"
+
+msgid "Sponsor with this id doesn't exists."
+msgstr "Спонсор с таким ID не найден"
+
+msgid "The coupon was not created correctly"
+msgstr "Купон не был создан корректно"
+
+msgid "This payment system is not meant for direct payments."
+msgstr "Выбранная платежная система не предназначена для прямых платежей"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Wallet operation type ID is not defined"
+msgstr "Тип операции не определен"
+
+msgid "Warehouse"
+msgstr "Склад"
+
+msgid "WP integration with mlm-soft.com cloud platform"
+msgstr "Интеграция WP с облачной платформой mlm-soft.com"
+
+msgid "You should %1sEnable coupons%2s to start using"
+msgstr "Для использования нужно %1sВключить купоны%2s"
+
+msgid "You should %1sEnable coupons%2s to start using"
+msgstr "Для использования нужно %1sВключить купоны%2s"

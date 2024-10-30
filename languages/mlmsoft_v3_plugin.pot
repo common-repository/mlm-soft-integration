@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MLM Soft Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-28 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Domain: mlmsoft_v3_plugin"
+
+msgid "https://mlm-soft.com"
+msgstr ""
+
+msgid "MLM Soft Integration"
+msgstr ""
+
+msgid "MLM Soft Ltd."
+msgstr ""
+
+msgid "Sponsor ID"
+msgstr ""
+
+msgid "Invite code"
+msgstr ""
+
+msgid "WP integration with mlm-soft.com cloud platform"
+msgstr ""
+
+msgid "MLM Soft E-Wallet"
+msgstr ""
+
+msgid "Payment from MLM Soft e-wallet balance"
+msgstr ""
+
+msgid "Pay with bonuses. Coupon {{couponCode}}"
+msgstr ""
+
+msgid "Cancel payment. Coupon {{couponCode}}"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Name of payment method"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description of payment method"
+msgstr ""
+
+msgid "This payment system is not meant for direct payments."
+msgstr ""
+
+msgid "Payment from an e-wallet"
+msgstr ""
+
+msgid "Coupon cannot be returned (Old version)"
+msgstr ""
+
+msgid "Cannot return a used coupon"
+msgstr ""
+
+msgid "Coupon is not connected to the e-wallet"
+msgstr ""
+
+msgid "EWallet info"
+msgstr ""
+
+msgid "Wallet operation type ID is not defined"
+msgstr ""
+
+msgid "Account ID not found"
+msgstr ""
+
+msgid "Request validation error (required fields)"
+msgstr ""
+
+msgid "Request validation error (internal digest)"
+msgstr ""
+
+msgid "Request validation error (digest)"
+msgstr ""
+
+msgid "Request validation error (time)"
+msgstr ""
+
+msgid "Session not found"
+msgstr ""
+
+msgid "The coupon was not created correctly"
+msgstr ""
+
+msgid "Method not exists"
+msgstr ""
+
+msgid "Handler not found"
+msgstr ""
+
+msgid "response body is not defined"
+msgstr ""
+
+msgid "Document {{documentId}} not processed"
+msgstr ""
+
+msgid "Response is empty"
+msgstr ""
+
+msgid "Response not recognized: {{response}}"
+msgstr ""
+
+msgid "Payment with bonuses from an e-wallet"
+msgstr ""
+
+msgid "Opportunity presented by: {{fullName}}"
+msgstr ""
+
+msgid "Cannot find any sponsor with this sponsor referral code in the database."
+msgstr ""
+
+msgid "Sponsor with this id doesn't exists."
+msgstr ""
+
+msgid "Internal error. Can not create user"
+msgstr ""
+
+msgid "Online office"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Coupon not found"
+msgstr ""
+
+msgid "Amount must be less than {{maxAmount}}"
+msgstr ""
+
+msgid "Account ID not found in the coupon (old version)"
+msgstr ""
+
+msgid "Warehouse"
+msgstr ""
+
+msgid "Pay from e-wallet - {{couponCode}}"
+msgstr ""
+
+msgid "Payment from {{couponCode}} created successfully"
+msgstr ""
+
+msgid "Pos order created. Document id: {{documentId}}"
+msgstr ""
+
+msgid "You should %1sEnable coupons%2s to start using"
+msgstr ""
